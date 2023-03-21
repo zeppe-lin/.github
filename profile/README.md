@@ -1,1 +1,38 @@
-# README
+## INTRODUCTION
+
+Zeppe-Lin is a lightweight Linux distribution for the x86-64
+architecture targeted at experienced Linux users.  The primary focus
+of this distribution is keep it simple, which is reflected in a
+straightforward tar.gz-based package system, BSD-style initscripts,
+and a relatively small collection of trimmed packages.  The secondary
+focus is utilization of new Linux features and recent tools and
+libraries.  Zeppe-Lin also has a pkgsrc system which makes it easy to
+install and upgrade applications.
+
+Current release is **2023-01-02**.
+
+## DOCUMENTATION
+
+### Handbook
+
+The [Zeppe-Lin handbook][1] covers the installation, configuration,
+and administration of Zeppe-Lin.
+
+### Release Notes and Errata
+
+[Zeppe-Lin release notes][2] contains important information about the
+current Zeppe-Lin release.
+
+## DOWNLOAD
+
+Before downloading Zeppe-Lin please read the [Zeppe-Lin handbook][1]
+to make sure your hardware is supported and to make sure you know how
+to install it.
+
+Check [current rootfs tarball][1].
+
+[1]: https://zeppe-lin.github.io/handbook.7.html
+[2]: https://github.com/zeppe-lin/pkgsrc/releases/tag/2023-01-02
+
+<!-- vim:sw=2:ts=2:sts=2:et:cc=72:tw=70
+End of file. -->
