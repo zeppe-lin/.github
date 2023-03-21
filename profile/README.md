@@ -9,7 +9,7 @@ focus is utilization of new Linux features and recent tools and
 libraries.  Zeppe-Lin also has a [pkgsrc][1] system which makes it
 easy to install and upgrade applications.
 
-Current release is **2023-01-02**.
+[![](https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?label=Current%20release%20is&style=flat-square)][3]
 
 ## DOCUMENTATION
 
@@ -33,7 +33,7 @@ Check [current rootfs tarball][3].
 
 [1]: https://zeppe-lin.github.io/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM
 [2]: https://zeppe-lin.github.io/handbook.7.html
-[3]: https://github.com/zeppe-lin/pkgsrc/releases/tag/2023-01-02
+[3]: https://github.com/zeppe-lin/pkgsrc/releases/latest
 
 <!-- vim:sw=2:ts=2:sts=2:et:cc=72:tw=70
 End of file. -->
