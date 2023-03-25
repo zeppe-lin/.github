@@ -1,8 +1,8 @@
 ## INTRODUCTION
 
-Zeppe-Lin is a lightweight Linux distribution for the x86-64
-architecture targeted at experienced Linux users.  The primary focus
-of this distribution is keep it simple, which is reflected in a
+Zeppe-Lin is a lightweight source-based GNU/Linux distribution for the
+x86-64 architecture targeted at experienced Linux users.  The primary
+focus of this distribution is keep it simple, which is reflected in a
 straightforward tar.gz-based package system, BSD-style initscripts,
 and a relatively small collection of trimmed packages.  The secondary
 focus is utilization of new Linux features and recent tools and
