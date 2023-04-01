@@ -29,11 +29,16 @@ Before downloading Zeppe-Lin please read the [Zeppe-Lin handbook][2]
 to make sure your hardware is supported and to make sure you know how
 to install it.
 
-Check [current rootfs tarball][3].
+* Check [latest release][3] if you want prebuilt rootfs image.
+* Check [mkrootfs][4] if you want to build (custom) rootfs image.
+* Check [dockerfile][5] if you want to build (custom) docker image.
 
+<!-- References -->
 [1]: https://zeppe-lin.github.io/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM
 [2]: https://zeppe-lin.github.io/handbook.7.html
 [3]: https://github.com/zeppe-lin/pkgsrc/releases/latest
+[4]: https://github.com/zeppe-lin/mkrootfs
+[5]: https://github.com/zeppe-lin/dockerfile
 
 <!-- vim:sw=2:ts=2:sts=2:et:cc=72:tw=70
 End of file. -->
