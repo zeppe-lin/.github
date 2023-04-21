@@ -1,0 +1,72 @@
+=pod
+
+=encoding UTF-8
+
+=begin html
+
+<!-- LOGO -->
+<header>
+  <img class="logo"></img>
+</header>
+
+=end html
+
+=head1 INTRODUCTION
+
+Zeppe-Lin is a lightweight source-based GNU/Linux distribution for the
+x86-64 architecture targeted at experienced Linux users.  The primary
+focus of this distribution is keep it simple, which is reflected in a
+straightforward tar.gz-based package system, BSD-style initscripts,
+and a relatively small collection of trimmed packages.  The secondary
+focus is utilization of new Linux features and recent tools and
+libraries.  Zeppe-Lin also has a
+L<pkgsrc|https://zeppe-lin.github.io/man/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM>
+system which makes it easy to install and upgrade applications.
+
+=begin html
+
+<img
+src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?label=CURRENT%20RELEASE&style=flat-square">
+</img>
+
+=end html
+
+=head1 DOCUMENTATION
+
+=head2 Handbook
+
+The L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html>
+covers the installation, configuration, and administration of
+Zeppe-Lin.
+
+=head2 Release Notes and Errata
+
+The L<release
+notes|https://github.com/zeppe-lin/pkgsrc/releases/latest>
+contains important information about the current Zeppe-Lin release.
+
+=head1 DOWNLOAD
+
+Before downloading Zeppe-Lin please read the
+L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html>
+to make sure your hardware is supported and to make sure you know how
+to install it.
+
+=over
+
+=item * L<rootfs|https://github.com/zeppe-lin/pkgsrc/releases/latest>
+
+Check if you want prebuilt rootfs image.
+
+=item * L<mkrootfs|https://github.com/zeppe-lin/mkrootfs>
+
+Check if you want to build (custom) rootfs image.
+
+=item * L<dockerfile|https://github.com/zeppe-lin/dockerfile>
+
+Check if you want to build (custom) docker image.
+
+=back
+
+# vim:sw=2:ts=2:sts=2:et:cc=72:tw=70
+# End of file.
