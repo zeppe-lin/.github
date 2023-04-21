@@ -25,9 +25,9 @@ system which makes it easy to install and upgrade applications.
 
 =begin html
 
-<img
-src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?label=CURRENT%20RELEASE&style=flat-square">
-</img>
+<a href="https://github.com/zeppe-lin/pkgsrc/releases/latest">
+  <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?label=CURRENT%20RELEASE&style=flat-square" alt="Current Release">
+</a>
 
 =end html
 
