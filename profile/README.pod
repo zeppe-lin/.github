@@ -52,19 +52,13 @@ L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html>
 to make sure your hardware is supported and to make sure you know how
 to install it.
 
-=over
-
-=item * L<rootfs|https://github.com/zeppe-lin/pkgsrc/releases/latest>
-
-Check if you want prebuilt rootfs image.
-
-=item * L<mkrootfs|https://github.com/zeppe-lin/mkrootfs>
-
-Check if you want to build (custom) rootfs image.
-
-=item * L<dockerfile|https://github.com/zeppe-lin/dockerfile>
-
-Check if you want to build (custom) docker image.
+Then check
+L<rootfs|https://github.com/zeppe-lin/pkgsrc/releases/latest>
+if you want prebuilt rootfs image,
+L<mkrootfs|https://github.com/zeppe-lin/mkrootfs>
+if you want to build (custom) rootfs image, and
+L<dockerfile|https://github.com/zeppe-lin/dockerfile>
+if you want to build (custom) docker image.
 
 =back
 
