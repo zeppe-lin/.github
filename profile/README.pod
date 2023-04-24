@@ -6,7 +6,7 @@
 
 <!-- LOGO -->
 <header>
-  <img class="logo" src="/logo2.png"></img>
+  <img class="logo" src="/images/logo-big.png">
 </header>
 
 =end html
