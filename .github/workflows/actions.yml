@@ -1,16 +1,43 @@
-on: [push]
+name: GitHub CI
+on: [push, pull_request, create]
 
 jobs:
-  notification:
+  test:
     runs-on: ubuntu-latest
-    name: Notifications
+
     steps:
-    - name: IRC notification
-      uses: Gottox/irc-message-action@v2
-      with:
-        channel: '#zeppe-lin'
-        nickname: zeppe-lin-bot
-        message: |-
-          ${{ github.actor }} pushed ${{ github.event.ref }} ${{ github.event.compare }}
-          ${{ join(github.event.commits.*.message, ', ') }}
-          https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+      - uses: actions/checkout@v3
+
+      - name: IRC Push Notification
+        uses: Gottox/irc-message-action@v2
+        if: github.event_name == 'push'
+        with:
+          channel: '#zeppe-lin'
+          nickname: zeppbot
+          message: |-
+            ${{ github.actor }} pushed ${{ github.event.ref }} ${{ github.event.compare }}
+            ${{ join(github.event.commits.*.message, ', ') }}
+            https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}
+
+      - name: IRC Pull Request Notification
+        uses: Gottox/irc-message-action@v2
+        if: github.event_name == 'pull_request'
+        with:
+          channel: '#zeppe-lin'
+          nickname: zeppbot
+          message: |-
+            ${{ github.actor }} opened PR ${{ github.event.pull_request.html_url }}
+
+      - name: IRC Tag Created Notification
+        uses: Gottox/irc-message-action@v2
+        if: github.event_name == 'create' && github.event.ref_type == 'tag'
+        with:
+          channel: '#zeppe-lin'
+          nickname: zeppbot
+          message: |-
+            ${{ github.actor }} tagged ${{ github.repository }} ${{ github.event.ref }}
+
+      - name: Check POD for errors
+        run: podchecker profile/README.pod
+
+# End of file.
