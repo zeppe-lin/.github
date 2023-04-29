@@ -27,7 +27,7 @@ system which makes it easy to install and upgrade applications.
 
 <!-- GitHub release (latest by date) -->
 <a href="https://github.com/zeppe-lin/pkgsrc/releases/latest">
-  <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?color=darkgreen&display_name=tag&label=CURRENT%20RELEASE&logo=linux&logoColor=white&style=for-the-badge" alt="Current Release">
+  <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc?color=2c5e36&display_name=tag&label=CURRENT%20RELEASE&logo=linux&logoColor=white&style=for-the-badge" alt="Current Release">
 </a>
 
 =end html
