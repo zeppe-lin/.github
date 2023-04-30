@@ -48,18 +48,16 @@ contains important information about the current Zeppe-Lin release.
 
 =head1 DOWNLOAD
 
-Before downloading Zeppe-Lin please read the
+Before downloading Zeppe-Lin, please read the
 L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html>
-to make sure your hardware is supported and to make sure you know how
-to install it.
-
+to be sure your hardware is supported and you know how to install it.
 Then check
 L<rootfs|https://github.com/zeppe-lin/pkgsrc/releases/latest>
 if you want prebuilt rootfs image,
 L<mkrootfs|https://github.com/zeppe-lin/mkrootfs>
-if you want to build (custom) rootfs image, and
+if you want to build rootfs image, and
 L<dockerfile|https://github.com/zeppe-lin/dockerfile>
-if you want to build (custom) docker image.
+if you want to build docker image.
 
 =head1 COMMUNITY
 
