@@ -61,4 +61,10 @@ if you want to build (custom) rootfs image, and
 L<dockerfile|https://github.com/zeppe-lin/dockerfile>
 if you want to build (custom) docker image.
 
+=head1 COMMUNITY
+
+For announcements, discussions, and support, please go to our GitHub
+L<dicussions page|https://github.com/orgs/zeppe-lin/discussions>
+and Libera.Chat L<#zeppe-lin channel|https://web.libera.chat/#zeppe-lin>.
+
 =cut
