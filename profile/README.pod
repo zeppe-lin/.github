@@ -42,8 +42,7 @@ Zeppe-Lin.
 
 =head2 Release Notes and Errata
 
-The L<release
-notes|https://github.com/zeppe-lin/pkgsrc/releases/latest>
+The L<Release Announcement|https://github.com/orgs/zeppe-lin/discussions/1>
 contains important information about the current Zeppe-Lin release.
 
 =head1 DOWNLOAD
