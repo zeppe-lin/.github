@@ -42,12 +42,12 @@ Zeppe-Lin.
 
 =head2 Release Notes and Errata
 
-The L<Release Announcement|https://github.com/orgs/zeppe-lin/discussions/1>
+L<Release Announcement|https://github.com/orgs/zeppe-lin/discussions/1>
 contains important information about updates, changes, and bug fixes in
 the current Zeppe-Lin release.
 
-The L<Zeppe-Lin Projects> contains tasks and issues for current and
-next release.
+L<Zeppe-Lin Projects|https://github.com/orgs/zeppe-lin/projects>
+contains tasks and issues for current and next release.
 
 =head1 DOWNLOAD
 
