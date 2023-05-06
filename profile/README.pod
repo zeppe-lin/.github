@@ -43,20 +43,19 @@ Zeppe-Lin.
 =head2 Release Notes and Errata
 
 The L<Release Announcement|https://github.com/orgs/zeppe-lin/discussions/1>
-contains important information about the current Zeppe-Lin release.
+contains important information about updates, changes, and bug fixes in
+the current Zeppe-Lin release.
+
+The L<Zeppe-Lin Projects> contains tasks and issues for current and
+next release.
 
 =head1 DOWNLOAD
 
 Before downloading Zeppe-Lin, please read the
-L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html>
-to be sure your hardware is supported and you know how to install it.
-Then check
-L<rootfs|https://github.com/zeppe-lin/pkgsrc/releases/latest>
-if you want prebuilt rootfs image,
-L<mkrootfs|https://github.com/zeppe-lin/mkrootfs>
-if you want to build rootfs image, and
-L<dockerfile|https://github.com/zeppe-lin/dockerfile>
-if you want to build docker image.
+L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html> to be sure your
+hardware is supported and you know how to install it, and L<release
+announcement|https://github.com/orgs/zeppe-lin/discussions/1> for important
+information about the current Zeppe-Lin release and download links.
 
 =head1 COMMUNITY
 
