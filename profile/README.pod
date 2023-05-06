@@ -44,9 +44,9 @@ Zeppe-Lin.
 
 The L<release announcement page|https://github.com/orgs/zeppe-lin/discussions/1>
 contains important information about updates, changes, and bug fixes in
-the current Zeppe-Lin release. Whereas, the
+the current Zeppe-Lin release. Whereas the
 L<projects page|https://github.com/orgs/zeppe-lin/projects>
-contains tasks and issues for current and next release.
+contains the tasks and issues for current and next release.
 
 =head1 DOWNLOAD
 
