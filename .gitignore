@@ -1,2 +1,5 @@
-# vim undo
+# backup files
+*.bak
+
+# vim undo files
 .*.un~
