@@ -15,10 +15,10 @@
 
 Zeppe-Lin is a lightweight source-based GNU/Linux distribution for the
 x86-64 architecture targeted at experienced Linux users.  The primary
-focus of this distribution is keep it simple, which is reflected in a
-straightforward tar.gz-based package system, BSD-style initscripts,
+focus of this distribution is to keep it simple, which is reflected in
+a straightforward tar.gz-based package system, BSD-style initscripts,
 and a relatively small collection of trimmed packages.  The secondary
-focus is utilization of new Linux features and recent tools and
+focus is the utilization of new Linux features and recent tools and
 libraries.  Zeppe-Lin also has a
 L<pkgsrc|https://zeppe-lin.github.io/man/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM>
 system which makes it easy to install and upgrade applications.
@@ -52,14 +52,14 @@ contains the tasks and issues for current and next release.
 
 Before downloading Zeppe-Lin, please read the
 L<handbook(7)|https://zeppe-lin.github.io/man/handbook.7.html> to be sure your
-hardware is supported and you know how to install it.  Then look at
+hardware is supported, and you know how to install it.  Then look at the
 L<release announcement|https://github.com/orgs/zeppe-lin/discussions/1>
 for important information about the current Zeppe-Lin release and download links.
 
 =head1 COMMUNITY
 
 For announcements, discussions, and support, please go to our GitHub
-L<dicussions page|https://github.com/orgs/zeppe-lin/discussions>
+L<discussions page|https://github.com/orgs/zeppe-lin/discussions>
 and Libera.Chat L<#zeppe-lin channel|https://web.libera.chat/#zeppe-lin>.
 
 =cut
