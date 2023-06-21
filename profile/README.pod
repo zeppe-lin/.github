@@ -58,7 +58,7 @@ for important information about the current Zeppe-Lin release and download links
 
 =head1 COMMUNITY
 
-For announcements, discussions, and support, please go to our GitHub
+For announcements, discussions, and support, please check our GitHub
 L<discussions page|https://github.com/orgs/zeppe-lin/discussions>
 and Libera.Chat L<#zeppe-lin channel|https://web.libera.chat/#zeppe-lin>.
 
