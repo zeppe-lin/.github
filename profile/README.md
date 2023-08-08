@@ -22,21 +22,22 @@ easy to install and upgrade applications.
 
 ## Handbook
 
-The [handbook(7)][HANDBOOK] covers the installation, configuration, and administration
-of Zeppe-Lin.
+The [handbook(7)][HANDBOOK] covers the installation, configuration,
+and administration of Zeppe-Lin.
 
 ## Release Notes and Errata
 
-The [release announcement page][RELEASE] contains important information about updates,
-changes, and bug fixes in the current Zeppe-Lin release.  Whereas the
-[projects page][PROJECTS] contains the tasks and issues for current and next release.
+The [release announcement page][RELEASE] contains important
+information about updates, changes, and bug fixes in the current
+Zeppe-Lin release.  Whereas the [projects page][PROJECTS] contains the
+tasks and issues for current and next release.
 
 # DOWNLOAD
 
-Before downloading Zeppe-Lin, please read the [handbook(7)][HANDBOOK] to be sure your
-hardware is supported, and you know how to install it.  Then look at the
-[release announcement][RELEASE] for important information about the current Zeppe-Lin
-release and download links.
+Before downloading Zeppe-Lin, please read the [handbook(7)][HANDBOOK]
+to be sure your hardware is supported, and you know how to install it.
+Then look at the [release announcement][RELEASE] for important
+information about the current Zeppe-Lin release and download links.
 
 # COMMUNITY
 
