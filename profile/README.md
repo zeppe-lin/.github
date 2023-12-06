@@ -11,11 +11,11 @@ focus is the utilization of new Linux features and recent tools and
 libraries.  Zeppe-Lin also has a [pkgsrc][1] system which makes it
 easy to install and upgrade applications.
 
-[1]: https://zeppe-lin.github.io/man/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM
+[1]: https://zeppe-lin.github.io/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM
 
 <!-- GitHub release (latest by date) -->
 <a href="https://github.com/orgs/zeppe-lin/discussions/1">
-  <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc-core?color=2c5e36&display_name=tag&label=CURRENT%20RELEASE&logo=linux&logoColor=white&style=for-the-badge" alt="Current Release">
+  <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc-core?color=2c5e36&display_name=tag&label=CURRENT%20RELEASE&logo=linux&logoColor=white&style=for-the-badge" alt="Current Current Release Announcement.">
 </a>
 
 # DOCUMENTATION
@@ -47,7 +47,7 @@ For announcements, discussions, and support, please check our GitHub
 <!-- REFERENCES -->
 
 [RELEASE]: https://github.com/orgs/zeppe-lin/discussions/1
-[HANDBOOK]: https://zeppe-lin.github.io/man/handbook.7.html
+[HANDBOOK]: https://zeppe-lin.github.io/handbook.7.html
 [PROJECTS]: https://github.com/orgs/zeppe-lin/projects
 [FORUM]: https://github.com/orgs/zeppe-lin/discussions
 [IRC]: https://web.libera.chat/#zeppe-lin
