@@ -11,7 +11,7 @@ focus is the utilization of new Linux features and recent tools and
 libraries.  Zeppe-Lin also has a [pkgsrc][1] system which makes it
 easy to install and upgrade applications.
 
-[1]: https://zeppe-lin.github.io/handbook.7.html#THE-PACKAGES-SOURCES-SYSTEM
+[1]: https://zeppe-lin.github.io/handbook.7.html#THE-PKGSRC-SYSTEM
 
 <!-- GitHub release (latest by date) -->
 <a href="https://github.com/orgs/zeppe-lin/discussions/1">
