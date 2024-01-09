@@ -14,7 +14,7 @@ easy to install and upgrade applications.
 [1]: https://zeppe-lin.github.io/handbook.7.html#THE-PKGSRC-SYSTEM
 
 <!-- GitHub release (latest by date) -->
-<a href="https://github.com/orgs/zeppe-lin/discussions/1">
+<a href="https://github.com/orgs/zeppe-lin/discussions/2">
   <img src="https://img.shields.io/github/v/release/zeppe-lin/pkgsrc-core?color=2c5e36&display_name=tag&label=CURRENT%20RELEASE&logo=linux&logoColor=white&style=for-the-badge" alt="Current Current Release Announcement.">
 </a>
 
