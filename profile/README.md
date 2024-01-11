@@ -3,15 +3,17 @@
 # INTRODUCTION
 
 Zeppe-Lin is a lightweight source-based GNU/Linux distribution for the
-x86-64 architecture targeted at experienced Linux users.  The primary
-focus of this distribution is to keep it simple, which is reflected in
-a straightforward tar.gz-based package system, BSD-style initscripts,
-and a relatively small collection of trimmed packages.  The secondary
-focus is the utilization of new Linux features and recent tools and
-libraries.  Zeppe-Lin also has a [pkgsrc][1] system which makes it
-easy to install and upgrade applications.
+x86-64 architecture targeted at experienced Linux users.
+It is forked from [CRUX][1] and the primary focus of this distribution
+is "keep it simple" too.  The KISS principle reflects in a simple
+_tar.gz_-based package system, BSD-style initscripts, and a relatively
+small collection of trimmed packages.  The secondary focus is the
+utilization of new Linux features and recent tools and libraries.
+Zeppe-Lin also has a [pkgsrc][2] system which makes it easy to install
+and upgrade applications.
 
-[1]: https://zeppe-lin.github.io/handbook.7.html#THE-PKGSRC-SYSTEM
+[1]: http://crux.nu
+[2]: https://zeppe-lin.github.io/handbook.7.html#THE-PKGSRC-SYSTEM
 
 <!-- GitHub release (latest by date) -->
 <a href="https://github.com/orgs/zeppe-lin/discussions/2">
