@@ -1,4 +1,4 @@
-![](https://github.com/zeppe-lin/artwork/blob/master/logo-big-2color.png?raw=true)
+![](https://github.com/zeppe-lin/artwork/blob/master/logo-big-2.png?raw=false)
 
 # INTRODUCTION
 
