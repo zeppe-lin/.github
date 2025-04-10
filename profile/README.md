@@ -1,8 +1,8 @@
 
 # INTRODUCTION
 
-<img src="https://github.com/zeppe-lin/artwork/blob/master/release-v1.x.png?raw=true"
-     style="float: left;" align="right" width="240px" height="240px">
+<img src="https://github.com/zeppe-lin/artwork/blob/master/v1.0.png?raw=true"
+     style="float: right;" align="right" width="240px" height="240px">
      
 Zeppe-Lin is a lightweight source-based GNU/Linux distribution for the
 x86-64 architecture designed for experienced Linux users.
