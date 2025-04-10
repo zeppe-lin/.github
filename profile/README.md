@@ -23,10 +23,10 @@ users to shape their systems without unnecessary complexity.
 
 ## Handbook
 
-The [handbook(7)][2] provides detailed guidance on installing,
+The [handbook][2] provides detailed guidance on installing,
 configuring, and administering Zeppe-Lin.
 
-[2]: https://zeppe-lin.github.io/handbook.7.html
+[2]: https://zeppe-lin.github.io/handbook.html
 
 ## Release Notes and Errata
 
@@ -39,7 +39,7 @@ and issues related to the current and upcoming releases.
 
 # DOWNLOAD
 
-Before downloading Zeppe-Lin, check the [handbook(7)][2] to ensure
+Before downloading Zeppe-Lin, check the [handbook][2] to ensure
 hardware compatibility and review the [release announcements][3] for
 important updates and download links.
 
