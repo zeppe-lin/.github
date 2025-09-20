@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 <img src="https://github.com/zeppe-lin/artwork/blob/master/v1.1.png?raw=true"
-     align="right" width="170px" height="170px">
+     align="right" width="150px" height="150px">
 
 Zeppe-Lin is a source-based GNU/Linux distribution for x86-64 systems, forked from
 [CRUX](https://crux.nu).  It follows the KISS (Keep It Simple) philosophy:
