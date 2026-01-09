@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-<img src="https://github.com/zeppe-lin/artwork/blob/master/v1.1.png?raw=true"
+<img src="https://github.com/zeppe-lin/artwork/blob/master/v1.2.png?raw=true"
      align="right" width="150px" height="150px">
 
 Zeppe-Lin is a source-based GNU/Linux distribution for x86-64 systems, forked from
@@ -8,7 +8,7 @@ Zeppe-Lin is a source-based GNU/Linux distribution for x86-64 systems, forked fr
 minimal package sets, tarball-based installations, and BSD-style initscripts.
 Built for users who prefer clarity over abstraction and control over convenience.
 
-Latest release: [**v1.1**](https://zeppe-lin.github.io/relnotes-v1.1.html).
+Current release: [**v1.2**](https://zeppe-lin.github.io/v1.2.html).
 
 # DOCUMENTATION
 
@@ -16,9 +16,8 @@ Latest release: [**v1.1**](https://zeppe-lin.github.io/relnotes-v1.1.html).
   Comprehensive guide for installing, configuring, and maintaining your Zeppe-Lin system.
   
 * [Codebook](https://zeppe-lin.github.io/codebook.html):
-  Technical references, build flows, and internal structure for contributors and advanced users.
-  **WIP**.
-
+  Reference document for maintainers and contributors responsible for building, maintaining, and publishing the system.
+  
 * [Release Notes](https://github.com/orgs/zeppe-lin/discussions/categories/announcements):
   Keep up with version changes, errata, and toolchain updates.
 
